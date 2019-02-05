@@ -3,10 +3,12 @@
 @import 'base/base';
 @import 'base/typography';
 
+@import 'components/button';
 @import 'components/container';
 @import 'components/social-icons';
 
 @import 'layout/navbar';
 
 @import 'pages/about';
+@import 'pages/event';
 @import 'pages/homepage';
